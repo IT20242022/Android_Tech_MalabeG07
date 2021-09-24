@@ -18,6 +18,8 @@
         android:inputType="textPersonName"
         android:minHeight="48dp"
         android:text="@string/Type1"
+        android:textColor="#D81B60"
+        android:textColorLink="#1E88E5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,6 +36,7 @@
         android:inputType="textPersonName"
         android:minHeight="48dp"
         android:text="@string/Type2"
+        android:textColor="#D81B60"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Type1" />
@@ -48,6 +51,7 @@
         android:inputType="textPersonName"
         android:minHeight="48dp"
         android:text="@string/Type4"
+        android:textColor="#D81B60"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.557"
         app:layout_constraintStart_toStartOf="parent"
@@ -65,6 +69,7 @@
         android:inputType="textPersonName"
         android:minHeight="48dp"
         android:text="@string/Type3"
+        android:textColor="#D81B60"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Type2" />
@@ -75,7 +80,8 @@
         android:layout_height="42dp"
         android:layout_marginTop="40dp"
         android:text="@string/cate"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
+        android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.467"
         app:layout_constraintStart_toStartOf="parent"
