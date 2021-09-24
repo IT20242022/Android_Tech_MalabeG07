@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HOTSTUFF</string>
+    <string name="add">add</string>
+    <string name="price">price</string>
+    <string name="description">description</string>
+    <string name="maincategory">maincategory</string>
+    <string name="subcategory">subcategory</string>
+    <string name="Takephoto">Takephoto</string>
+    <string name="update">update</string>
+    <string name="update1">update</string>
+    <string name="open1">open1</string>
+    <string name="Type1">Type1</string>
+    <string name="Type2">Type2</string>
+    <string name="Type3">Type3</string>
+    <string name="Type4">Type4</string>
+    <string name="Category" />
+    <string name="cate">Category</string>
+    <string name="add2">add</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete1">Delete</string>
+    <string name="delete3">delete</string>
+    <string name="update4">update</string>
+
+</resources>

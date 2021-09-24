@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423396478379",
+    "project_id": "hotstuf-d0511",
+    "storage_bucket": "hotstuf-d0511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423396478379:android:f1d15f94e0281a3a37d6ee",
+        "android_client_info": {
+          "package_name": "com.example.hotstuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423396478379-vfbq075etacvimdi94o7ttciffsfjurb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_88Y3808XwpfGEDv-TQqpa9F1QEdSdr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423396478379-vfbq075etacvimdi94o7ttciffsfjurb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
