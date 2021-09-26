@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7F53</color>
+    <color name="colorPrimaryDark">#FF7F53</color>
+    <color name="LightWhite">#F5F5F3</color>
+    <color name="fullwhite">#C6C6C6</color>
+    <color name="blackcolor">#111111</color>
+    <color name="cartBG">#F4C47C</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightWhite">#FAF7F7</color>
+</resources>

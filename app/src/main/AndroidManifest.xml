@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hotstuffpizza">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pizza_logo"
+        android:label="@string/app_name_long"
+        android:roundIcon="@drawable/pizza_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.hotstuffpizza.PizzaEditActivity"></activity>
+        <activity
+            android:name="com.example.hotstuffpizza.OrderItemActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name="com.example.hotstuffpizza.UserItemActivity" />
+        <activity android:name="com.example.hotstuffpizza.CategoryItemActivity" />
+        <activity android:name="com.example.hotstuffpizza.PizzaItemActivity" />
+        <activity android:name="com.example.hotstuffpizza.CategoryPizzaActivity" />
+        <activity
+            android:name="com.example.hotstuffpizza.CartActivity"
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name="com.example.hotstuffpizza.LogInActivity"/>
+        <activity android:name="com.example.hotstuffpizza.SignUpActivity" />
+        <activity android:name="com.example.hotstuffpizza.WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.hotstuffpizza.AdminMainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.hotstuffpizza.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="com.example.hotstuffpizza.PaymentActivity"
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".CartActivity">
+        </activity>
+        <activity
+            android:name="com.example.hotstuffpizza.PaymentConfirmationActivity"
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".PaymentActivity">
+        </activity>
+    </application>
+
+</manifest>
