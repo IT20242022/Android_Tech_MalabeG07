@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109826971244",
+    "project_id": "hotstuffpizza-9734b",
+    "storage_bucket": "hotstuffpizza-9734b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109826971244:android:b73e44d6057bcf17e9aa49",
+        "android_client_info": {
+          "package_name": "com.example.hotstuffpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109826971244-somvrfigu9m7ar3l9nrl7cgdp3e2jrhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsuZYK2TpYOVldTp8hdurn4lUm-sGHrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109826971244-somvrfigu9m7ar3l9nrl7cgdp3e2jrhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
